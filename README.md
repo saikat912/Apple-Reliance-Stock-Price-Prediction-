@@ -1,8 +1,4 @@
-Mention that I have used facebook prophet model
 
-Certainly! Here’s a revised and compelling GitHub README for your project, **explicitly mentioning your use of the Facebook Prophet model** alongside ARIMA and SARIMA. This README is tailored to your attached notebook and highlights Prophet as a key modeling approach.
-
----
 
 # Stock Price Prediction Using Time Series Forecasting
 
